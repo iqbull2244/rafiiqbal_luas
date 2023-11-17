@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/loliktry_bangunhitung.egg-info/PKG-INFO
+src/loliktry_bangunhitung.egg-info/SOURCES.txt
+src/loliktry_bangunhitung.egg-info/dependency_links.txt
+src/loliktry_bangunhitung.egg-info/top_level.txt
+src/rafiiqbal_luas/__init__.py
+src/rafiiqbal_luas/rumus segitiga.py
